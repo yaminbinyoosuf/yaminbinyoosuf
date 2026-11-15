@@ -16,7 +16,7 @@ was attached, or nothing happened at all. I build the layer that checks the work
 
 | Project | What it does | Get it |
 | --- | --- | --- |
-| [**cogext**](https://github.com/yaminbinyoosuf/cogext) | Python SDK: track the promises your agent makes, verify them against evidence | `pip install cogext` |
+| [**cogext**](https://github.com/cogext/cogext) | Python SDK: track the promises your agent makes, verify them against evidence | `pip install cogext` |
 | [**cogext-try**](https://github.com/yaminbinyoosuf/cogext-try) | MCP observer that catches agents claiming success on failed tool calls | `npx cogext-try --install` |
 | [**cogext-scan**](https://github.com/yaminbinyoosuf/cogext-scan) | Zero-dependency static analysis for AI agent code | `pip install cogext-scan` |
 | [**cogext-compliance**](https://github.com/yaminbinyoosuf/cogext-compliance) | Score an agent against the [COGEXT Commitment Standard](https://cogextai.com/standard) | `pip install cogext-compliance` |
